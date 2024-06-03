@@ -4,7 +4,7 @@ After clearing data with value 09h from isolated port with address 0Bh starting 
 
 
 
-![Screenshot (1)](    )
+![Screenshot (1)](  https://github.com/TrajceStudent/Zadaca-br.5_8085/blob/main/5.png  )
 
 
 				
